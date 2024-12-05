@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=s0hambot&label=Profile%20views&color=0e75b6&style=flat" alt="s0hambot" /> 
 </p>
 
-- 🔭 I'm currently working on [tcp-chat-server](https://github.com/S0hamBOT/tcp-chat-server)
+- 🔭 I'm currently working on [tcp-chat-server](https://github.com/S0hamBOT/tcp-chat-server) & [Network-Request-Analyzer-Chrome-Extension](https://github.com/S0hamBOT/Network-Request-Analyzer-Chrome-Extension)
 - 🌱 I'm currently learning **Javascript**
 - 📝 Sometimes I write articles on **Cybersecurity & Blockchain**
 - 📫 How to reach me **sohamjadhav.tech@gmail.com**
